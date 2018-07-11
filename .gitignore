@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/SQLiteEF_WPF/bin/Debug
+/src/SQLiteEF_WPF/obj/Debug
+/src/SQLiteEF_WPF/packages
