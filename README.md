@@ -10,4 +10,4 @@ Sqlite
 
 
 Database:
-Haven't included Database scripts. can ficgure it with the property from models
+Haven't included Database scripts. can figure it out using the properties from models
